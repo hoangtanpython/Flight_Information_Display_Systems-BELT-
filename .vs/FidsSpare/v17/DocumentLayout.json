@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thuc tap tot nghiep\\FidsSpare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Hubs\\DashboardHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\Hubs\\DashboardHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Models\\FidsLocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\Models\\FidsLocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Repositories\\CountersInformationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\Repositories\\CountersInformationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Views\\Home\\Index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\Views\\Home\\Index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\appsettings.Development.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\appsettings.Development.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Models\\AHT_CountersInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\Models\\AHT_CountersInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Properties\\PublishProfiles\\FolderProfile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\Properties\\PublishProfiles\\FolderProfile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\admin.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FidsChekinGate\\pages\\admin.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\SubscribeTableDependencies\\SubscribeCountersInformationTableDependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FIDSHUB\\SubscribeTableDependencies\\SubscribeCountersInformationTableDependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\index.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FidsChekinGate\\pages\\index.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\Departures.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FidsChekinGate\\pages\\Departures.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\ahtlogo.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AHT_FidsChekinGate\\pages\\ahtlogo.vue||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\appsettings.Development.json",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\appsettings.Development.json",
+              "RelativeToolTip": "AHT_FIDSHUB\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T09:43:11.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AHT_FIDSHUB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:34:27.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FidsLocation.cs",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Models\\FidsLocation.cs",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\Models\\FidsLocation.cs",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Models\\FidsLocation.cs",
+              "RelativeToolTip": "AHT_FIDSHUB\\Models\\FidsLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:33:39.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AHT_FIDSHUB\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:33:41.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardHub.cs",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Hubs\\DashboardHub.cs",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\Hubs\\DashboardHub.cs",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Hubs\\DashboardHub.cs",
+              "RelativeToolTip": "AHT_FIDSHUB\\Hubs\\DashboardHub.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAYwJYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:32:17.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountersInformationRepository.cs",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Repositories\\CountersInformationRepository.cs",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\Repositories\\CountersInformationRepository.cs",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Repositories\\CountersInformationRepository.cs",
+              "RelativeToolTip": "AHT_FIDSHUB\\Repositories\\CountersInformationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:43:39.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AHT_CountersInformation.cs",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Models\\AHT_CountersInformation.cs",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\Models\\AHT_CountersInformation.cs",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Models\\AHT_CountersInformation.cs",
+              "RelativeToolTip": "AHT_FIDSHUB\\Models\\AHT_CountersInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:36:38.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "AHT_FIDSHUB\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-17T09:36:25.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AHT_FIDSHUB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-17T09:33:10.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubscribeCountersInformationTableDependency.cs",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\SubscribeTableDependencies\\SubscribeCountersInformationTableDependency.cs",
+              "RelativeDocumentMoniker": "AHT_FIDSHUB\\SubscribeTableDependencies\\SubscribeCountersInformationTableDependency.cs",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FIDSHUB\\SubscribeTableDependencies\\SubscribeCountersInformationTableDependency.cs",
+              "RelativeToolTip": "AHT_FIDSHUB\\SubscribeTableDependencies\\SubscribeCountersInformationTableDependency.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:32:51.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin.vue",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\admin.vue",
+              "RelativeDocumentMoniker": "AHT_FidsChekinGate\\pages\\admin.vue",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\admin.vue",
+              "RelativeToolTip": "AHT_FidsChekinGate\\pages\\admin.vue",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-17T09:31:17.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.vue",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\index.vue",
+              "RelativeDocumentMoniker": "AHT_FidsChekinGate\\pages\\index.vue",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\index.vue",
+              "RelativeToolTip": "AHT_FidsChekinGate\\pages\\index.vue",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-17T09:31:30.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Departures.vue",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\Departures.vue",
+              "RelativeDocumentMoniker": "AHT_FidsChekinGate\\pages\\Departures.vue",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\Departures.vue",
+              "RelativeToolTip": "AHT_FidsChekinGate\\pages\\Departures.vue",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-17T09:31:21.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ahtlogo.vue",
+              "DocumentMoniker": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\ahtlogo.vue",
+              "RelativeDocumentMoniker": "AHT_FidsChekinGate\\pages\\ahtlogo.vue",
+              "ToolTip": "D:\\Thuc tap tot nghiep\\FidsSpare\\AHT_FidsChekinGate\\pages\\ahtlogo.vue",
+              "RelativeToolTip": "AHT_FidsChekinGate\\pages\\ahtlogo.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-17T09:31:16.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

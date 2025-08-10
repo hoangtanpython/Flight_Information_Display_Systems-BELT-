@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@microsoft/signalr": "^8.0.7",
+    "date-fns": "^3.6.0",
+    "jquery": "^3.7.1",
+    "nuxt": "^3.12.4",
+    "vue": "latest",
+    "vue3-datepicker": "^0.4.0",
+    "vue3-timepicker": "^1.0.0-beta.2"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.30"
+  }
+}
