@@ -12,24 +12,28 @@ export default defineNuxtConfig({
     "~/assets/css/responsive.css"
   ],
   runtimeConfig: {
-    urlHub: 'https://localhost:7248/hub/flight', // ✅ sửa đúng endpoint SignalR (giao thức + path)
+    public: {
+      
+      apiBase: 'https://localhost:7248/api',     
+      hubBase: 'https://localhost:7248',         
 
-    urlCheckDevice: 'https://localhost:7248/api/FidsLocation',     // ✅ đúng port backend
-    urlDep:         'https://localhost:7248/api/FidsSpare',
-    urlCountries:   'https://localhost:7248/api/Countries',
-    urlArr:         'https://localhost:7248/api/Arrivals',
-    urlFlight:      'https://localhost:7248/api/CheckinCounter',
-    urlGate:        'https://localhost:7248/api/Gate',
-    urlCheckinCounter: 'https://localhost:7248/api/CheckinCounter',
+      urlCheckDevice: 'https://localhost:7248/api/FidsLocation',
+      urlDep:         'https://localhost:7248/api/FidsSpare',
+      urlCountries:   'https://localhost:7248/api/Countries',
+      urlArr:         'https://localhost:7248/api/Arrivals',
+      urlFlight:      'https://localhost:7248/api/CheckinCounter',
+      urlGate:        'https://localhost:7248/api/Gate',
+      urlCheckinCounter: 'https://localhost:7248/api/CheckinCounter',
 
-    numberfload: 3,
-    timefresh: 65,
-    timefloop: 25,
-    numberfloadArr: 2,
-    timefloopArr: 25,
-    numberfloadDep2: 2,
-    timefloopDep2: 25,
-    timeCheckFlight: 50,
-    timeLoadFlight: 60,
+      numberfload: 3,
+      timefresh: 65,
+      timefloop: 25,
+      numberfloadArr: 2,
+      timefloopArr: 25,
+      numberfloadDep2: 2,
+      timefloopDep2: 25,
+      timeCheckFlight: 50,
+      timeLoadFlight: 60,
+    }
   }
 })
